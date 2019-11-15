@@ -1,0 +1,52 @@
+#form {
+  background-color: Bisque;
+}
+#LoginSubmitDiv {
+  padding-top: 1%;
+  background-color: Aquamarine;
+}
+#LoginSubmitButton {
+}
+.formInputLabel {
+  font-family: Jazz LET,fantasy;
+  font-size:23px;
+  font-style:italic;
+}
+
+#footerimagediv {
+  padding-bottom: 30px;
+}
+
+#footerinfodiv {
+  text-align: center;
+}
+
+/* #usernameLabelDiv {
+  background-color: red;
+}
+#passwordLabelDiv {
+  background-color: red;
+}
+#submitLabelDiv {
+  background-color: red;
+}
+
+#usernameInputDiv {
+  background-color: green;
+}
+#passwordInputDiv {
+  background-color: green;
+}
+#submitInputDiv {
+  background-color: green;
+}
+
+#usernameTipDiv {
+  background-color: blue;
+}
+#passwordTipDiv {
+  background-color: blue;
+}
+#submitTipDiv {
+  background-color: blue;
+} */

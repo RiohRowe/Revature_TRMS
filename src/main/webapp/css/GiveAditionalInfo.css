@@ -1,0 +1,60 @@
+
+
+#footerimagediv {
+  padding-bottom: 30px;
+}
+
+#footerinfodiv {
+  text-align: center;
+}
+
+#carouselExampleCaptions {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+body {
+  background-color: ivory;
+}
+footer {
+  background-color: snow;
+}
+
+.formInputLabel {
+  font-family: Jazz LET,fantasy;
+  font-size:23px;
+  font-style:italic;
+  padding-top: 10%;
+}
+
+#Textarea1 {
+  width: 100%;
+}
+
+#ReturnFile1 {
+  padding-top: 5%;
+}
+
+#additionalinforequest {
+  text-align: center;
+}
+
+#TextResponseInputDiv {
+  background-color:ivory;
+  width: 100%;
+}
+
+#TextResponseLabelDiv {
+  background-color:ivory;
+}
+
+#FileResponseInputDiv {
+  background-color:ivory;
+}
+
+#FileResponseLabelDiv {
+  background-color:ivory;
+}
+
+#submitInputDiv {
+  padding-top: 20px;
+}

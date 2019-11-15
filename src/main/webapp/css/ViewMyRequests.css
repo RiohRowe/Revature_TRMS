@@ -1,0 +1,113 @@
+
+
+#footerimagediv {
+  padding-bottom: 30px;
+}
+
+#footerinfodiv {
+  text-align: center;
+}
+
+#carouselExampleCaptions {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+body {
+  background-color: ivory;
+}
+footer {
+  background-color: snow;
+}
+
+.formInputLabel {
+  font-family: Jazz LET,fantasy;
+  font-size:23px;
+  font-style:italic;
+  padding-top: 10%;
+}
+
+#Textarea1 {
+  width: 100%;
+}
+
+#RequestInfoOuterDiv {
+  text-align: center;
+}
+
+.RequestInfoDiv {
+  display: inline-block;
+  width: 90%;
+}
+
+#RequestInfoParagraph {
+  text-align: left;
+}
+
+#TextResponseInputDiv {
+  background-color:ivory;
+  width: 100%;
+}
+
+
+#urgentStatus {
+}
+
+#TimeTillApproved {
+}
+
+#MakeDate {
+}
+
+#MakeTime {
+}
+
+
+
+.tac {
+  text-align: center;
+}
+
+.tacIb {
+  display: inline-block;
+}
+
+.pnb { /* Paragraph Not Bold */
+  font-weight: normal;
+}
+
+.RequestInfoParagraph {
+  font-weight: bolder;
+}
+
+.RequestInfoTB {
+  margin-left: 20px;
+  rows: 3;
+}
+
+.row {
+  margin-top: 20px;
+}
+.RITBL { /* Request Input Text Block Label */
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 25px;
+  color: black;
+  font-weight: 300;
+}
+.RITBULL { /* Request Input Text Block Unordered List Label */
+  font-family: 'Graduate', cursive;
+  font-size: 25px;
+  color: black;
+  font-weight: 300;
+}
+
+.ta1 { /* Text Area design1 */
+    width: 80%;
+}
+
+.RDACL { /* Request Display Approval Chain List */
+  text-align: left;
+}
+
+.dwidth-60 {
+  width:65%;
+}

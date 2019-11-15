@@ -1,0 +1,110 @@
+#form {
+  background-color: Bisque;
+}
+#LoginSubmitDiv {
+  padding-top: 1%;
+  background-color: Aquamarine;
+}
+#LoginSubmitButton {
+}
+.formInputLabel {
+  font-family: Jazz LET,fantasy;
+  font-size:23px;
+  font-style:italic;
+}
+.FormGroupLabel {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size:30px;
+  font-style:italic;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+#footerimagediv {
+  padding-bottom: 30px;
+}
+
+#footerinfodiv {
+  text-align: center;
+}
+
+#inputEmail1 {
+  width: 100%;
+}
+
+#usernameLabelDiv {
+  width: 200px;
+}
+
+#Password1LabelDiv {
+  width: 200px;
+}
+
+
+#password2LabelDiv {
+  width: 200px;
+}
+
+
+#emailLabelDiv {
+  width: 200px;
+}
+
+
+#submitInputDiv {
+  padding-top: 20px;
+}
+
+.fg { /* FormGroup */
+}
+
+.fgl {/* FormGroupLabel */
+  text-align: right;
+  width: 140px;
+  }
+
+.fgsti { /* FormGroupSimpleTextInput */
+}
+
+.fgssi { /*FormGroupSimpleSelectInput */
+  margin-right: 20px;
+    margin-left:20px;
+}
+
+.fgstai { /* FormGroupSimpleTextAreaInput */
+  margin-right: 20px;
+  margin-left:20px;
+  width: 300px;
+}
+
+.fgsni { /* FormGroupSimpleNumberInput */
+  margin-left:20px;
+}
+
+.fgsfi { /* FormGroupSimpleFileInput */
+  width:230px;
+  margin-left: 20px;
+}
+
+.fgspni { /* FormGroupSimplePhoneNumberInput */
+
+}
+
+.fgsdi { /* FormGroupSimpleDateInput */
+
+}
+
+.fgc { /* FormGroupComment */
+}
+
+.formcluster {
+  background-color: snow;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+}
+
+
+#inputEmail1 {
+  width: 50%;
+}

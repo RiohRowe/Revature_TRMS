@@ -1,0 +1,39 @@
+
+
+#footerimagediv {
+  padding-bottom: 30px;
+}
+
+#footerinfodiv {
+  text-align: center;
+}
+
+#carouselExampleCaptions {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+body {
+  background-color: ivory;
+}
+footer {
+  background-color: snow;
+}
+
+.d-block {
+  height:auto;
+  width:auto;
+}
+
+.DivCenterInner {
+  display:inline-block;
+  width: 70%
+}
+
+.DivCenterOuter {
+  text-align: center;
+}
+
+.carouselBlock {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}

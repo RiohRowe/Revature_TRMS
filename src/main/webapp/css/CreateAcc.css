@@ -1,0 +1,87 @@
+#form {
+  background-color: Bisque;
+}
+#LoginSubmitDiv {
+  padding-top: 1%;
+  background-color: Aquamarine;
+}
+#LoginSubmitButton {
+}
+.formInputLabel {
+  font-family: Jazz LET,fantasy;
+  font-size:23px;
+  font-style:italic;
+}
+
+#footerimagediv {
+  padding-bottom: 30px;
+}
+
+#footerinfodiv {
+  text-align: center;
+}
+
+#inputEmail1 {
+  width: 100%;
+}
+
+#usernameLabelDiv {
+  width: 200px;
+}
+
+#Password1LabelDiv {
+  width: 200px;
+}
+
+
+#password2LabelDiv {
+  width: 200px;
+}
+
+
+#emailLabelDiv {
+  width: 200px;
+}
+
+
+#submitInputDiv {
+  padding-top: 20px;
+}
+
+.fg { /* FormGroup*/
+  background-color: Bisque;
+}
+
+.fgl {/* FormGroupLabel*/
+  background-color: lime;
+  }
+
+/* #usernameLabelDiv {
+  background-color: red;
+}
+#passwordLabelDiv {
+  background-color: red;
+}
+#submitLabelDiv {
+  background-color: red;
+}
+
+#usernameInputDiv {
+  background-color: green;
+}
+#passwordInputDiv {
+  background-color: green;
+}
+#submitInputDiv {
+  background-color: green;
+}
+
+#usernameTipDiv {
+  background-color: blue;
+}
+#passwordTipDiv {
+  background-color: blue;
+}
+#submitTipDiv {
+  background-color: blue;
+} */
